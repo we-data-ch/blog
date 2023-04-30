@@ -1,6 +1,8 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+
+We Data's blog on statistics, R, computer science, and Dataviz. More or less linked with our world, always related to data.
+We Data on YouTube [YouTube](https://www.youtube.com/channel/UCGktdbvbc_H-JEkYYTvwRVw) and our [Homepage](https://wedata.ch).

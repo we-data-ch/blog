@@ -1,0 +1,13 @@
+---
+date: "2022-11-01" 
+title: Learn Terminal Basics
+---
+
+By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)
+
+
+**Goal**: To initiate people who would like to start with **Python** by _starting with the basics or the basics_ or people who want to reinforce their knowledge by going through important concepts in programming.
+
+[Read more about it](https://www.youtube.com/playlist?list=PLSYhtt87oGAL2mRQpd5ozLsSkMgLxrPtp)
+
+<iframe width="360" height="215" src="https://www.youtube.com/embed/oRjSldmZCAg?list=PLSYhtt87oGAL2mRQpd5ozLsSkMgLxrPtp" title="Les fondamentaux en python 1: Mise en place de l&#39;environnement d&#39;entraînement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
