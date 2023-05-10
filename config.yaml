@@ -14,10 +14,10 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
+    # - name: Homepage
+    #   url: https://wedata.ch
     - name: Homepage
-      url: https://wedata.ch
-    - name: Homepage2
-      href: /static/html/test.html
+      url: /new/
     - name: YouTube Channel
       url: https://www.youtube.com/channel/UCGktdbvbc_H-JEkYYTvwRVw
     - name: GitHub

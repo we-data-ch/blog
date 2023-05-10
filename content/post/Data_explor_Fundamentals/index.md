@@ -1,6 +1,7 @@
 ---
 date: "2022-10-01"
 title: Data Exploration with R
+categories: ["R"]
 ---
 By [David Munoz Tord ](https://twitter.com/tord_munoz)
 

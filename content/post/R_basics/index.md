@@ -1,6 +1,7 @@
 ---
 date: "2022-06-01" 
 title: Learn R Basics
+categories: ["R"]
 ---
 
 By [Vestin Hategekimana ](https://twitter.com/combledejoie)

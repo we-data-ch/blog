@@ -1,6 +1,7 @@
 ---
 date: "2022-12-01"
 title: Data Manipulation with R
+categories: ["R"]
 ---
 By [David Munoz Tord ](https://twitter.com/tord_munoz)
 
