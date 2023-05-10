@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: We Data Blog
+title: We-Data Blog
 theme: "hugo-theme-stack"
 googleAnalytics: ''
 disqusShortname: ''
@@ -16,6 +16,8 @@ menu:
   main:
     - name: Homepage
       url: https://wedata.ch
+    - name: Homepage2
+      href: /static/html/test.html
     - name: YouTube Channel
       url: https://www.youtube.com/channel/UCGktdbvbc_H-JEkYYTvwRVw
     - name: GitHub
@@ -25,7 +27,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: We Data's blog on statistics, R and Dataviz. More or less linked with our world, always related to data.
+  description: We-Data's blog on statistics, R and Dataviz. More or less linked with our world, always related to data.
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
