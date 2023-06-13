@@ -1,6 +1,7 @@
 ---
 date: "2022-11-01" 
 title: Learn Terminal Basics
+categories: ["Python"]
 ---
 
 By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)

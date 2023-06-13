@@ -1,6 +1,7 @@
 ---
 date: "2022-09-01" 
 title: Code Hygiene. Don't Laugh it off !
+categories: ["Computer Science"]
 ---
 
 By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)

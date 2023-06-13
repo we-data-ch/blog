@@ -1,6 +1,7 @@
 ---
 date: "2022-08-01" 
 title: Learn Terminal Basics
+categories: ["Bash"]
 ---
 
 By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)

@@ -1,6 +1,7 @@
 ---
 date: "2022-07-01"
 title: Data Viz Fundamentals with R
+categories: ["R"]
 ---
 By [David Munoz Tord ](https://twitter.com/tord_munoz)
 

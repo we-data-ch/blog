@@ -1,6 +1,7 @@
 ---
 date: "2022-09-01" 
 title: Satistics with R
+categories: ["R"]
 ---
 
 By [Vestin Hategekimana ](https://twitter.com/combledejoie)
