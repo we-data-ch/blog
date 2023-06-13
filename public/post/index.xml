@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on We Data Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on We Data Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geneva R Lunches</title>
+      <link>/2023/05/13/geneva-r-lunches/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/05/13/geneva-r-lunches/</guid>
+      <description>By David Munoz Tord
+R lunches are multidisciplinary meetings on R at UniMail.
+We finished this semester R Lunches but you can still find the video links if you missed one!
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>We Data Live on YouTube</title>
+      <link>/2023/01/01/we-data-live-on-youtube/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/01/01/we-data-live-on-youtube/</guid>
+      <description>By David Munoz Tord, Fabrice Hategekimana and Vestin Hategekimana Live of December 29 edited in which we present in more detail WeData, its functioning and its future.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Data Manipulation with R</title>
+      <link>/2022/12/01/data-manipulation-with-r/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/12/01/data-manipulation-with-r/</guid>
+      <description>By David Munoz Tord Goal: Learn more about data manipulation: how to pivot, join and filter data using {dplyr} and {tidyr} packages.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>What a tool! - An ignorant perspective</title>
+      <link>/2022/12/01/what-a-tool-an-ignorant-perspective/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/12/01/what-a-tool-an-ignorant-perspective/</guid>
+      <description>By Fabrice Hategekimana In this playlist are all the videos presenting useful tools when coding or when you are a student.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Learn Terminal Basics</title>
+      <link>/2022/11/01/learn-terminal-basics/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/11/01/learn-terminal-basics/</guid>
+      <description>By Fabrice Hategekimana Goal: To initiate people who would like to start with Python by starting with the basics or the basics or people who want to reinforce their knowledge by going through important concepts in programming.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Data Exploration with R</title>
+      <link>/2022/10/01/data-exploration-with-r/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/10/01/data-exploration-with-r/</guid>
+      <description>By David Munoz Tord Goal: Learn about data exploration and familiarize yourself with some of the basic functions of the tidyverse.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Code Hygiene. Don&#39;t Laugh it off !</title>
+      <link>/2022/09/01/code-hygiene.-dont-laugh-it-off/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/09/01/code-hygiene.-dont-laugh-it-off/</guid>
+      <description>By Fabrice Hategekimana Goal: Introduce the basics of hygiene in the code to have clean and reusable scripts. Workflow and refactoring are also important elements to achieve good results. We explain everything in our videos!
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Satistics with R</title>
+      <link>/2022/09/01/satistics-with-r/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/09/01/satistics-with-r/</guid>
+      <description>By Vestin Hategekimana Goal: To cover the structure of a classical statistical analysis with R. We will then go into more depth on each part while presenting packages in the language that make the work easier. Although this playlist is designed for social science students, it can be useful for anyone.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Learn Terminal Basics</title>
+      <link>/2022/08/01/learn-terminal-basics/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/08/01/learn-terminal-basics/</guid>
+      <description>By Fabrice Hategekimana Video series on terminal automation. We explain why working with the terminal is still a good idea.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Data Viz Fundamentals with R</title>
+      <link>/2022/07/01/data-viz-fundamentals-with-r/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/07/01/data-viz-fundamentals-with-r/</guid>
+      <description>By David Munoz Tord Goal: Go over the basics of data visualization with R and learn more advanced concepts using the ggplot package.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>Learn R Basics</title>
+      <link>/2022/06/01/learn-r-basics/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/06/01/learn-r-basics/</guid>
+      <description>By Vestin Hategekimana Goal: To initiate people who would like to start with R by starting with the basics or the basics or people who want to reinforce their knowledge by going through important concepts in programming.
+Read more about it</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>/2020/12/30/a-plain-markdown-post/</link>
+      <pubDate>Wed, 30 Dec 2020 21:49:57 -0700</pubDate>
+      
+      <guid>/2020/12/30/a-plain-markdown-post/</guid>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/2020/12/01/hello-r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/12/01/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
