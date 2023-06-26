@@ -25,7 +25,7 @@ I appreciate your dedication and knowledge, and now I offer an opportunity for y
 
 Before I delve into the details, there are a couple of things you need:
 
-1. **GitHub Account**: If you don't have one yet, simply visit [GitHub](https://github.com/) and register an account. Once you've done that, share your GitHub username with us, and I will add you to our group account. **Not familiar with GitHub?** No worries! Here's a [Amazing video tutorial](https://www.youtube.com/watch?v=8Dd7KRpKeaE) that will guide you on how GitHub works including understanding repositories, commits, pushes, pulls, and fetch. It will also show you how to use GitHub Desktop **if you allergic to terminals**,
+1. **GitHub Account**: If you don't have one yet, simply visit [GitHub](https://github.com/) and register an account. Once you've done that, share your GitHub username with us, and I will add you to our group account. **Not familiar with GitHub?** No worries! Here's an [amazing video tutorial](https://www.youtube.com/watch?v=8Dd7KRpKeaE) that will guide you on how GitHub works including understanding repositories, commits, pushes, pulls, and fetch. It will also show you how to use GitHub Desktop **if you are allergic to terminals**,
 
 ### Step-by-step Guide:
 
@@ -65,7 +65,7 @@ Now you're ready to write your own article! To create a new post, simply run (No
 blogdown:::new_post_addin()
 ```
 
-This will open a dialogue where you can fill in details about your post like its title, author name, date, and more. If you don't know what a field mean, just let it blank, you can always change it later in the YAML (header of the file, meaning the first part). You can either chose Rmarkdown or markdown (if you don't want to add code). **You don't know R/markdown?** [here is an introduction video](https://www.youtube.com/watch?v=asHhuHRxhvo). **If you don't want to learn markdown (which is to bad becase it is very easy), you can still use a tricks (See in the step 5 "Visual" subsection)!**
+This will open a dialogue where you can fill in details about your post like its title, author name, date, and more. If you don't know what a field means, just let it blank, you can always change it later in the YAML (header of the file, meaning the first part). You can either chose Rmarkdown or markdown (if you don't want to add code). **You don't know R/markdown?** [here is an introduction video](https://www.youtube.com/watch?v=asHhuHRxhvo). **If you don't want to learn markdown (which is to bad because it is very easy), you can still use a trick (see in the step 5 "Visual" subsection)!**
 
 #### Step 5: Edit the Document
 
@@ -73,13 +73,13 @@ After the creation of the post, the corresponding file will open in the source e
 
 ##### The YAML
 
-At the top of you document you have the YAML of the document which is the header in which you can manage the meta information about your blog post. It looks like that:
+At the top of your document you have the YAML which is the header in which you can manage the meta information about your blog post. It looks like that:
 
 ![In example the one I used for this post](yaml.jpg)
 
 **Let's break it down!**
 
-*Note: you don't need to use quotation mark!*
+*Note: you don't need to use quotation marks!*
 
 - `title`: This field is used for the title of the post or webpage. It's typically displayed at the top of the page and used in the browser's title bar.
 
@@ -95,7 +95,7 @@ At the top of you document you have the YAML of the document which is the header
 
 - `description`: This field is used for a brief description or summary of the post or webpage. It's often used in the webpage's metadata and can be used by search engines.
 
-- `image`: This specifies a path or URL to an image file associated with the post or webpage. This image might be used as a thumbnail or a header image. The easiest way to enter the path of a local image is to move the image into the same folder as the post, so that all you have to enter is the image name (with extension).
+- `image`: This specifies a path or URL to an image file associated with the post or webpage. This image might be used as a thumbnail or a header image. The easiest way to enter the path of a local image is to move the image into the same folder as the post, so that all you have to enter is the image name (with its extension).
 
 - `math`: This field, if set to "yes", indicates that the post or webpage contains mathematical notations or formulae that need to be rendered properly.
 
@@ -121,19 +121,19 @@ To check how your blog post looks like in real-time, use:
 blogdown::serve_site()
 ```
 
-This will start a local server and open a preview of your blog post in Rstudio viewr pane (or your browser). To stop the server, just run:
+This will start a local server and open a preview of the entire blog in the viewer pane on RStudio. You can easily access your own post from there. To stop the server, just run:
 
 ```r
 blogdown::stop_server()
 ```
 
-This option has the advantage of being dynamic in the sense that when it is activated, you can modify your position and see the changes take place automatically on the screen.
+`blogdown::serve_site()` has the advantage of being dynamic in the sense that when it is activated, you can modify your blog post on RStudio and see the changes take place automatically on the screen. You could also use it from the start (before running any code).
 
 **Please note, however, that the server will not launch if there is an error in your code.**
 
 #### Step 7: Commit and Push to the Repository 
 
-Once you're satisfied with your article, it's time to share it with the world! First, you need to save your changes. In the RStudio `Git` pane, stage your changes, then commit with a meaningful message (you can also see it on GitHub desktop).
+Once you're satisfied with your article, it is time to share it with the world! First, you need to save your changes. In the RStudio `Git` pane, stage your changes, then commit with a meaningful message or you can also do the same on [GitHub desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop).
 
 Next, push your changes:
 
