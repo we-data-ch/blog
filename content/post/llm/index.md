@@ -54,7 +54,7 @@ Yeah, here we go little (4gb) buddy!
 
 <br/>
 
-Now that we got the basics, letś play with it!
+Now that we got the basics, let's play with it!
 
 
 ```python
