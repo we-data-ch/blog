@@ -3,8 +3,8 @@ title: How to contribute to our website with blog posts using R and RStudio
 author: Vestin Hategekimana
 date: '2023-06-26'
 slug: ~
-categories: []
-tags: []
+categories: [R]
+tags: [Community]
 description: ~
 image: give-and-take.jpg
 math: ~

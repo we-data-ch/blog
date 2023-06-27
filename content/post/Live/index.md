@@ -1,6 +1,7 @@
 ---
 date: "2023-01-01" 
 title: We-Data Live on YouTube
+categories: ["YouTube"]
 ---
 
 By [David Munoz Tord, Fabrice Hategekimana and Vestin Hategekimana ](https://twitter.com/wedata_unige)

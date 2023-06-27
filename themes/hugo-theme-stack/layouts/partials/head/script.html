@@ -13,7 +13,7 @@
                 pageLanguage: 'en',
                 // layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
                 autoDisplay: true,
-                includedLanguages: 'en,fr,it,ar',
+                includedLanguages: 'en,fr,it,ar,de',
             }, 'google_translate_element');
             setTimeout(() => {
                 changeLangToSV();
@@ -21,7 +21,7 @@
         }
         function changeLangToSV(){
             let ele = document.querySelector("#google_translate_element select");
-                ele.value = 'fr';
+                ele.value = 'en';
                 ele.dispatchEvent(new Event("change"));
         }
 </script>
