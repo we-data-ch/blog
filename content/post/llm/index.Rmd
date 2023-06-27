@@ -1,7 +1,7 @@
 ---
 title: "Your first chat bot with python!"
 author: "David Munoz Tord"
-date: "2023-06-28"
+date: "2023-06-27"
 categories: ["Python", "AI"]
 tags: ["language models", "llm", "chatGPT"]
 ---

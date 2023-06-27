@@ -1,7 +1,7 @@
 ---
 title: "Data Viz with Echarts4r"
 author: "David Munoz Tord"
-date: "2023-06-27"
+date: "2023-06-25"
 categories: ["R"]
 tags: ["dataviz", "interactive plots", "echarts4r"]
 ---
