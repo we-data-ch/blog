@@ -4,6 +4,7 @@ author: "David Munoz Tord"
 date: "2023-06-25"
 categories: ["R"]
 tags: ["dataviz", "interactive plots", "echarts4r"]
+image: viz.png
 ---
 
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>

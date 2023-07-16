@@ -1,7 +1,8 @@
 ---
 date: "2023-05-13" 
-title: Geneva R Lunches
+title: R Lunches in university of Geneva
 categories: ["R"]
+image: conf.jpg
 ---
 
 By [David Munoz Tord](https://twitter.com/munoztd0)

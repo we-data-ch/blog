@@ -1,0 +1,35 @@
+---
+title: "Your first chat bot with python!"
+author: "David Munoz Tord"
+date: "2023-06-27"
+categories: ["Python", "AI"]
+tags: ["language models", "llm", "chatGPT"]
+image: ai.jpg
+---
+
+
+
+By [David Munoz Tord](https://twitter.com/tord_munoz)
+
+**Goal**: Learn about *language models* and familiarize yourself with some of the basic functions of the {[languagemodels](https://github.com/jncraton/languagemodels)} to create your own chat bot.
+
+{[languagemodels](https://github.com/jncraton/languagemodels)} is a python module designed to be as simple as possible for learners and educators exploring how large language models intersect with modern software development. The interfaces to this package are all simple functions using standard types. The complexity of large language models is hidden from view while providing free local inference using light-weight, open models. All included models are free for educational use, no API keys are required, and all inference is performed locally by default.
+
+[Read more about it](https://github.com/jncraton/languagemodels)
+
+You can morph between plot like this:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

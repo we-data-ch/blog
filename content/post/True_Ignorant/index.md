@@ -1,6 +1,10 @@
 ---
 date: "2022-12-01" 
 title: What a tool! - An ignorant perspective
+categories:
+  - Computer Science
+  - YouTube
+image: youtube.png
 ---
 
 By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)
@@ -8,6 +12,10 @@ By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)
 
 In this playlist are all the videos **presenting useful tools** when coding or when you are a student.
 
-[Read more about it](https://www.youtube.com/playlist?list=PLSYhtt87oGAKgc6N-H2CYNVjDRcJze1zD)
+[Playlist here](https://www.youtube.com/playlist?list=PLSYhtt87oGALcvLjSZ4uinTIyXFxGUAgZ)
 
-<iframe width="360" height="215" src="https://www.youtube.com/embed/Czuu-2avkTo?list=PLSYhtt87oGAKgc6N-H2CYNVjDRcJze1zD" title="Alternatives à RStudio: Rterm, Radian, Sublime text et VS Code" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Note: video in french, ask in comments for subtitle in your language**
+
+## First video of the playlist:
+
+<iframe width="360" height="215" src="https://www.youtube.com/embed/E9a5Lv0po-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
